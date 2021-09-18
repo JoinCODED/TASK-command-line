@@ -1,5 +1,3 @@
-# Command line
-
 ### Cheatsheet
 
 1. Use this [Terminal Cheat Sheet](https://github.com/0nn0/terminal-mac-cheatsheet#english-version) and explore the Terminal.
