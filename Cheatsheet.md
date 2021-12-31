@@ -27,7 +27,7 @@
 
 `nano FILE_NAME` is used to open a text editor to edit a file
 
-`code .` to open Vs code for the current working directory
+`code .` to open Vs code for the current working directory. By default this command is available on Windows when installing VSCode, but for mac users, you will have to install it by going to VSCode then open he command pallete (command + shift + p) and write `shell`. Choose `Shell Command: install 'code' command in PATH`
 
 `rm FILE_NAME` to remove a single file
 

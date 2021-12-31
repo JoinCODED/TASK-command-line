@@ -1,6 +1,4 @@
-## Cheatsheet
-
-[Use the following cheat sheet](/Cheatsheet.md)
+[Use the following cheat sheet](/Cheatsheet.md) for further information
 
 ### 🍋 1. Create the Development folder
 
