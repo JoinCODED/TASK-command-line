@@ -1,4 +1,4 @@
-[Use the following cheat sheet](/Cheatsheet.md) for further information
+[Use the following cheat sheet](https://github.com/JoinCODED/TASK-command-line/blob/main/Cheatsheet.md) for further information
 
 ### 🍋 1. Create the Development folder
 
